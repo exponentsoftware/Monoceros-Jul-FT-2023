@@ -6,3 +6,8 @@ Monoceros test repo to practice git commands
 
 
 Accounting for First Changes.
+
+
+## Second Changes 
+
+Accounting for changes the second time.
